@@ -36,4 +36,5 @@ In this, I have trained and evaluated a simple neural network using PyTorch for 
 # Results and Screenshot
 ---
  - Testing accuracy on validation dataset: 94.42  
-<img src="https://raw.githubusercontent.com/syssoni/Spam_email_classifier/main/Web_app/web_app.png" alt="Web application" width="70%">
+<img src="https://raw.githubusercontent.com/syssoni/Handwritten_digit_recognition/main/Results/neural_network.png" alt="Neural Network" width="70%">
+<img src="https://raw.githubusercontent.com/syssoni/Handwritten_digit_recognition/main/Results/Testing_accuracy.png" alt="Accuracy" width="70%">
