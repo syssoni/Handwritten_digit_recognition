@@ -1,7 +1,9 @@
 # Handwritten Digit Recognition
 ---
 ## About the project
-In this, I have trained and evaluated a simple neural network using PyTorch for detecting digits from 0 to 9.
+In this, I have trained and evaluated a simple neural network using PyTorch for detecting digits from 0 to 9.<br/>
+
+**Neural Network, Cross entropy loss, stochastic gradient descent, PyTorch**<br/>
 
 ## About the data
 - The MNIST data used here is obtained from a Kaggle competition
@@ -20,6 +22,7 @@ In this, I have trained and evaluated a simple neural network using PyTorch for 
 **Dependencies**
 - PyTorch
 - Numpy
+- Python
 - Pandas
 - os<br/>
 
