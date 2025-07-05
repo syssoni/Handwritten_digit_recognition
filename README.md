@@ -15,7 +15,8 @@ In this, I have trained and evaluated a simple neural network using PyTorch for 
 - Uses Cross-Entropy Loss and the Stochastic Gradient Descent optimizer
 - Learning rate = 0.01
 
-# Running the file
+# Installing dependencies and running
+---
 **Dependencies**
 - PyTorch
 - Numpy
