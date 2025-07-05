@@ -24,14 +24,12 @@ In this, I have trained and evaluated a simple neural network using PyTorch for 
 - os<br/>
 
 **Steps for running the file**
-1. Clone this repository<br/>
-   https://github.com/syssoni/Handwritten_digit_recognition.git
-2. Create a virtual environment (optional but recommended)
-3. Install the required packages
+1. Create a virtual environment and activate it
+2. Install the required packages in the virtual environment
    - Pytorch
    - Numpy
    - Pandas
-4. Launch the notebook<br/>
+3. Launch the notebook<br/>
    jupyter notebook test_network.ipynb<br/>
    
 # Results and Screenshot
