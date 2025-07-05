@@ -24,7 +24,7 @@ In this, I have trained and evaluated a simple neural network using PyTorch for 
 - os<br/>
 
 **Steps for running the file**
-1. Clone this repository
+1. Clone this repository<br/>
    https://github.com/syssoni/Handwritten_digit_recognition.git
 2. Create a virtual environment (optional but recommended)
 3. Install the required packages
