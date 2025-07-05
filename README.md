@@ -31,7 +31,7 @@ In this, I have trained and evaluated a simple neural network using PyTorch for 
    - Pytorch
    - Numpy
    - Pandas
-4. Launch the notebook
+4. Launch the notebook<br/>
    jupyter notebook test_network.ipynb<br/>
    
 # Results and Screenshot
